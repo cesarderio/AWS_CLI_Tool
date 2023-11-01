@@ -35,7 +35,7 @@
 2. Run the script:
 
    ```bash
-   python AWS_Recon.py
+   python AWS_CLI_Tool.py
    ```
 
 3. Navigate through the interactive menu to manage or list AWS resources.
