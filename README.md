@@ -1,6 +1,7 @@
-![](./assets/aws_cli_t.png)
-
 # AWS Management CLI Tool
+
+<!-- ![](./assets/aws_cli_t.png) -->
+<img src="./assets/CLI_t.png" alt="NVST" width="500">
 
 **AWS Management CLI(Command Line Interface) Tool** is a powerful, user-friendly command-line utility designed to streamline your AWS resource management tasks. Instead of navigating through the AWS Console or writing custom scripts, use this tool to quickly view, manage, and monitor your cloud resources.
 
