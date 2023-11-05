@@ -1,4 +1,4 @@
-![](../../assets/hood.png)
+![](./assets/aws_cli_t.png)
 
 # AWS Management CLI Tool
 
